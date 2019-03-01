@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47929" started-at="2015-05-28T12:25:27Z" finished-at="2015-05-28T12:26:15Z">
+    <groups>
+    </groups>
+    <test name="管理员用例" duration-ms="47929" started-at="2015-05-28T12:25:27Z" finished-at="2015-05-28T12:26:15Z">
+      <class name="com.xiezl.StartAdminCase.AddShops">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xiezl.StartAdminCase.AddShops@24d1f5ed]" name="setUp" is-config="true" duration-ms="2158" started-at="2015-05-28T20:25:47Z" finished-at="2015-05-28T20:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addshops()[pri:0, instance:com.xiezl.StartAdminCase.AddShops@24d1f5ed]" name="addshops" duration-ms="22815" started-at="2015-05-28T20:25:49Z" finished-at="2015-05-28T20:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addshops -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xiezl.StartAdminCase.AddShops@24d1f5ed]" name="tearDown" is-config="true" duration-ms="3343" started-at="2015-05-28T20:26:11Z" finished-at="2015-05-28T20:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xiezl.StartAdminCase.AddShops -->
+      <class name="com.xiezl.StartAdminCase.AddGroupBuy">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xiezl.StartAdminCase.AddGroupBuy@492a9743]" name="setUp" is-config="true" duration-ms="2848" started-at="2015-05-28T20:25:27Z" finished-at="2015-05-28T20:25:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Add_groupbuy()[pri:0, instance:com.xiezl.StartAdminCase.AddGroupBuy@492a9743]" name="Add_groupbuy" duration-ms="13354" started-at="2015-05-28T20:25:30Z" finished-at="2015-05-28T20:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_groupbuy -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xiezl.StartAdminCase.AddGroupBuy@492a9743]" name="tearDown" is-config="true" duration-ms="3391" started-at="2015-05-28T20:25:43Z" finished-at="2015-05-28T20:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xiezl.StartAdminCase.AddGroupBuy -->
+    </test> <!-- 管理员用例 -->
+  </suite> <!-- Suite -->
+</testng-results>

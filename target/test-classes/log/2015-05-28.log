@@ -1,0 +1,30 @@
+AddGroupBuy开始启动.
+AddGroupBuy用例执行结束.
+AddGroupBuy开始启动.
+AddGroupBuy用例执行结束.
+AddGroupBuy开始启动.
+AddGroupBuy用例执行结束.
+AddGroupBuy开始启动.
+AddGroupBuy用例执行结束.
+Addshop开始启动.
+Addshop用例执行结束.
+AddGroupBuy开始启动.
+AddGroupBuy用例执行结束.
+Addshop开始启动.
+Addshop用例执行过程发生异常，请查看日志分析失败原因.
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=41.0.2272.118)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: '20150401-093536', ip: '192.168.1.32', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=.//*[@id='tag1']/option[3]}
+Session ID: ae0cdd2438793e76105df684e5d3391b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\Administrator\AppData\Local\Temp\scoped_dir11016_32753}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=41.0.2272.118, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Addshop用例执行结束.
+AddGroupBuy开始启动.
+AddGroupBuy用例执行结束.
+Addshop开始启动.
+Addshop用例执行结束.

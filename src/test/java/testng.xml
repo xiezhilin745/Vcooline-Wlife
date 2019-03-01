@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="1" allow-return-values="true">
+	<test verbose="2" name="管理员用例" preserve-order="true">
+		<classes>
+			<!-- AddGroupBuy -->
+			<class name="com.xiezl.StartAdminCase.AddGroupBuy">
+			<!-- sequential execution -->
+				<methods>
+					<include name="Add_groupbuy" />
+				</methods>
+			</class>
+			<class name="com.xiezl.StartAdminCase.AddShops">
+				 <methods>
+					<include name="addshops" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

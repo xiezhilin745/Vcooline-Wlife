@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="管理员用例"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.624">
+  <properties />
+  
+  
+            <testcase name="Add_groupbuy" time="9.624" classname="com.xiezl.StartAdminCase.AddGroupBuy" />
+      
+</testsuite>
